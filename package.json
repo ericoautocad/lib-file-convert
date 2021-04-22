@@ -1,5 +1,5 @@
 {
-  "name": "@albatross/file-convert",
+  "name": "@ericooliveira/lib-file-convert",
   "version": "1.0.0",
   "description": "Lib to generate .csv or .xlsx files from data collections in json format.",
   "main": "src/index.js",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://albatross-getnet@dev.azure.com/albatross-getnet/Libraries/_git/lib-file-convert"
+    "url": "https://github.com/ericoautocad/lib-file-convert.git"
   },
   "keywords": [
     "file",
