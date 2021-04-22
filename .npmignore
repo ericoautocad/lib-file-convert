@@ -1,0 +1,12 @@
+/dist
+/src
+/test
+/webpack
+.vscode
+.azure-pipelines
+.babelrc
+.editorconfig
+.eslintignore
+.eslintrc
+.nvmrc
+.prettierrc
