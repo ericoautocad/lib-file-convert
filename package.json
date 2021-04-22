@@ -1,5 +1,5 @@
 {
-  "name": "@ericooliveira/lib-file-convert",
+  "name": "lib-file-convert",
   "version": "1.0.0",
   "description": "Lib to generate .csv or .xlsx files from data collections in json format.",
   "main": "src/index.js",
